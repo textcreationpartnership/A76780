@@ -1,0 +1,157 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Black Munday turn'd white: or, the astrologers knavery epitomized. Being an answer to the great prognosticks, and gross predictions of Mr. Lillie, Mr. Culpeper, and the rest of the society of astrologers, concerning the eclipse of the sun, on Munday last, which (according to their calculation) should have produced an Egyptian darkness, and the greatest that hath been seen in this latter age. Also, a description of the glorious effects, and happy times, that are to proceed from the two famous luminaries of the sun and moon, upon the aforesaid eclipse; prophetically deduced from the wonderful despensations of that divine power, who drew back the clouds like a curtain, and caused the sun to shew its pleasant beams, to the memorable confutations of these great astrologers.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76780</idno>
+            <idno type="STC">Wing B3045</idno>
+            <idno type="STC">Thomason E658_14</idno>
+            <idno type="STC">ESTC R206694</idno>
+            <idno type="EEBO-CITATION">99865809</idno>
+            <idno type="PROQUEST">99865809</idno>
+            <idno type="VID">166104</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76780)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166104)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 101:E658[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Black Munday turn'd white: or, the astrologers knavery epitomized. Being an answer to the great prognosticks, and gross predictions of Mr. Lillie, Mr. Culpeper, and the rest of the society of astrologers, concerning the eclipse of the sun, on Munday last, which (according to their calculation) should have produced an Egyptian darkness, and the greatest that hath been seen in this latter age. Also, a description of the glorious effects, and happy times, that are to proceed from the two famous luminaries of the sun and moon, upon the aforesaid eclipse; prophetically deduced from the wonderful despensations of that divine power, who drew back the clouds like a curtain, and caused the sun to shew its pleasant beams, to the memorable confutations of these great astrologers.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for G. Whiting,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aprill. 1.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lilly, William, 1602-1681.</term>
+               <term>Culpeper, Nicholas, 1616-1654.</term>
+               <term>Solar eclipses --  1652 --  Early works to 1800.</term>
+               <term>Astrology --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:166104:1" rendition="simple:additions"/>
+            <p>BLACK MUNDAY TURN'D WHITE: OR, The ASTROLOGERS Knavery epitomized.</p>
+            <p>BEING An Anſwer to the great Prognoſticks, and groſs Predictions of Mr. Lillie, Mr. Culpeper, and the reſt of the Society of <hi>Aſtrologers,</hi> concern<g ref="char:EOLhyphen"/>ing the Eclipſe of the <hi>Sun,</hi> on <hi>Munday</hi> laſt, which (according to their <hi>Calculation</hi>) ſhould have produced an <hi>Egyptian</hi> darkneſs, and the greateſt that hath been ſeen in this latter Age.</p>
+            <p>Alſo, a Deſcription of the glorious effects, and happy Times, that are to proceed from the two famous <hi>Luminaries</hi> of the <hi>Sun</hi> and <hi>Moon,</hi> up<g ref="char:EOLhyphen"/>on the aforeſaid Eclipſe; prophetically deduced from the wonderful Diſpenſations of that Di<g ref="char:EOLhyphen"/>vine Power, who drew back the Clouds like a Curtain, and cauſed the Sun to ſhew its pleaſant Beams, to the me<g ref="char:EOLhyphen"/>morable confutation of theſe great <hi>Aſtrologers.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>G. Whiting,</hi> 1652.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:166104:2"/>
+            <pb n="3" facs="tcp:166104:2"/>
+            <head>Black Munday turn'd white: <hi>OR,</hi> A Whip for Star-Gazers, &amp;c.</head>
+            <p>HAving peruſed certain non-ſenſical <hi>Almanacks</hi> and <hi>Prognoſtications</hi> (and thoſe written by no final fools, but by the Grandees of this Age) and find<g ref="char:EOLhyphen"/>ing them full of falſities and contradictions, I have endea<g ref="char:EOLhyphen"/>voured to confute their errors, and divulge to the World their grand miſtakes; and ſince Mr. <hi>Lillie</hi> is accounted the <hi>Herculean Aſtrologer,</hi> and <hi>Prince of Prognoſticators,</hi> I ſhall paſs by thoſe of leſs repute, &amp; quote ſome of thoſe onely which I find in his <hi>Ephemeris,</hi> as he ſtiles it.</p>
+            <p>Firſt, his Cardinal Error (on which many other hang) con<g ref="char:EOLhyphen"/>cerns the Suns ingreſs into the Vernal Equinox, or rather according to <hi>Copernicus,</hi> the Earths ſaluting the firſt point of <hi>Libra;</hi> wherein ſome he preſents us with ſuch a face of Heaven <hi>(with what face he can do it, I know not)</hi> in which the firſt of the firſt decanate of <hi>Scorpio</hi> aſcends; I verily be<g ref="char:EOLhyphen"/>lieve the Scheam is right according to the time limited; but he (like an unskilful Muſitian) hath made a diſcord by not keeping true time for the Suns entrance into <hi>Aries,</hi> by his ſpoiling of the harmonious conſent of the Sphears muſick: for <hi>Booker, Wharton,</hi> and <hi>Wing,</hi> all of them ſound uni<g ref="char:EOLhyphen"/>formly,
+<pb n="4" facs="tcp:166104:3"/>and their ſeveral Scheams like ſo many well tun'd inſtruments make up a harmony: But Mr. <hi>Lillie</hi> (for want of tuning) comes baſely off, and makes a jar; and the rea<g ref="char:EOLhyphen"/>ſon is, becauſe he hath ſcru'd his pegs too high; for where<g ref="char:EOLhyphen"/>as they differ ſome few ſcruples (and that's no ſcruple in point of Art) from each other for time, <hi>Lilly</hi> is ſo ſingular, that he hath marr'd all in diſſenting from them all by no leſs then an hour and 14 min. Whereas Mr. <hi>Culpeper</hi> held an opinion, That it ſhould have begun 40 min. after 9 in the forenoon, and likewiſe differs far in his Calculation from other <hi>Aſtrologers;</hi> The truth whereof is evident by his own words, <hi>viz.</hi>
+            </p>
+            <p>
+               <hi>Solar Eclipſes</hi> have been ever fatal to Kings &amp; Magiſtrates, they cannot agree, but onely in one thing, and that is op<g ref="char:EOLhyphen"/>preſſing the people: O pure! they are old dogs at that, and the poor grean under it. <hi>Ariſe ô God and help them!</hi> Law<g ref="char:EOLhyphen"/>yers and Clergy-men are diſplaced and impriſoned, &amp; ſome made ſhorter by the head. A new ſect of Hereticks ariſe, which makes me admire how worſe can be invented then are already. Private murthers and poyſonings are like to be very rife: look to't ye great ones in authority, have a care of your ſelvs, leſt ſome of you be ſent to take a ſupper <hi>apud inferos,</hi> before you are a ware of it: 'Tis a ſcurvy faſhion, I do not like it.</p>
+            <p>During the effects of this Eclipſe in <hi>England,</hi> either at, or before the beginning of the year 1655, (the wiſer my brethren of the Communalty carry themſelves, for ought I know or believe, the ſooner it may be effected) the Go<g ref="char:EOLhyphen"/>vernment wil come into the hands of the people, and ever<g ref="char:EOLhyphen"/>laſting peace ſhall we enjoy, and never more War afflict us. And (if we may truſt to a piece of <hi>Art Caballiſtick</hi>) in <hi>Auguſt</hi> 1655, <hi>Rome</hi> falleth. But Mr. <hi>Lillie</hi> ſaith it onely threatens thoſe places which have the ſign of the ſaid eclipſe, and that this Government ſhall ſtand, &amp;c. But ſo various are they in
+<pb n="5" facs="tcp:166104:3"/>their ſeveral judgments, <hi>that all their <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſeem to be incredulous.</hi>
+            </p>
+            <p>However, it is evident, that Mr <hi>Lillie</hi> is <hi>omnium horarum homo;</hi> and yet I much wonder (ſince he can temporize ſo wel) that he ſhould be no better a time obſerver. I will not tell him the 8 day of <hi>March</hi> is put down for the 9 in the ſquare, that may happen through the <hi>Printers</hi> miſtake, ſure I am the other 8 hours, 58 min. <hi>P. M.</hi> cannot (by reaſon of his poſition of the Heavens for that moment) except for want of true Calculation, paſs by his two figures (as truly erected as the fore-mentioned was) for the Suns entrance into both the Tropicks, theſe (I ſay) ſhall be turn'd over in ſilence, becauſe I would liſten to his judgments.</p>
+            <p>
+               <hi>Pag.</hi> 24. His judgment (he pretends) to be ballanced by the prudent advice (comes falſly) of his Brother <hi>Reaſon.</hi> That they two ſhould be Kin I ſee little reaſon for it: He is not I ſuppoſe unacquainted with Dr. <hi>Simpleton,</hi> whoſe Plumbioſity out-ballanceth all the reaſon he hath. <hi>Sed per<g ref="char:EOLhyphen"/>dere quos vult Jupiter dementat.</hi> I know now who hath made him ſo mad a Prognoſticator, and this is <hi>Jupiter</hi> in detri<g ref="char:EOLhyphen"/>ment; but he knows his Reputation can receive no great detriment by it, though he ſhould pay for his pleaſure with a pox; elſe what means that bald pate of his, if t'were but unperiwigd.</p>
+            <p>
+               <hi>Pag.</hi> 25. He ſaith he will throw his Authors aſide, (by what Authority I know not) onely we muſt take his <hi>ipſe dixit</hi> to be a ſufficient Warrant to command our credence, notwithſtanding which wee'le believe him when we liſt. I ſee he is a Rebel to all Authority, and would aſſume a do<g ref="char:EOLhyphen"/>minion in judging unto himſelf; but before he is Judge in his Art, I would have him firſt proceed Maſter of Art, only this, I'me afraid it is a degree beyond his Capacity, though I am confident he already takes himſelf to be a man of de<g ref="char:EOLhyphen"/>gree.</p>
+            <pb n="6" facs="tcp:166104:4"/>
+            <p>
+               <hi>Page</hi> 28. He hath theſe unchriſtianlike words. <hi>O Hea<g ref="char:EOLhyphen"/>vens! What have men no more wit, then to run after a company of prating Prieſts and Lawyers.</hi> What I pray hath he to do with Heaven? I'me afraid Heaven hath little to do with him, ſince he hath ſo much to do with Hell, from whence he fetches ſuch opprobrious and caluminating terms; for his maſter (who ſets him on work, and will one day truly pay him his hire) was a Detractor from the beginning: But he is a Saint forſooth for quoting a deal of Scripture; and ſo is the Devil, for he did as much for his own advantage. <hi>Have men no more wit?</hi> Verily, had they no more then he, they'd have but a little; for what he had is here vented at once, and now his Hogſ-heads empty, we may expect it ſhould ſound, though there be nothing in it. His vilification (as he thinkes) in terming the Miniſters <hi>Prieſts,</hi> is more honou<g ref="char:EOLhyphen"/>rable then he is a ware, and therefore they are better com<g ref="char:EOLhyphen"/>pany then for himſelf.</p>
+            <p>But why prating <hi>Priests?</hi> I ſee he will diſcover himſelf to be of the <hi>Athenian</hi> Sect, which counted Saint <hi>Paul</hi> but a babler: But let him take heed, I adviſe him, leſt what he eſteemes prating, prove at the laſt more then an empty ſound againſt him: If the Word of GOD be of no bet<g ref="char:EOLhyphen"/>ter repute with him then Wind, it ſhall prove ſuch a Wind as ſhall ſcatter ſuch Duſt as he is from before the face of the Almighty.</p>
+            <p>There are more things whereby ſome able <hi>Aſtronomers</hi> ſtand in need to be Catechiz'd: Me thinkes he, and the reſt, ſhould have been better inſighted in the ſpeculative part of his Star-gazing Tribe of their Science, e're they ad<g ref="char:EOLhyphen"/>ventured on the Practick, eſpecially ſince they intended to make it known to the World how little they know; for no Artiſt would commit ſuch abſurdities as may be found them.</p>
+            <p>Alſo, whereas in <hi>January,</hi> all former Writers began with
+<pb n="7" facs="tcp:166104:4"/>the letter <hi>A,</hi> and end with it in <hi>December,</hi> at the end of the year; contrary to all <hi>Preſidents,</hi> out of a Pragmatick hu<g ref="char:EOLhyphen"/>mour, Mr <hi>Lillie</hi> begins with G, overthrowing by this all ancient <hi>Method;</hi> but what talk I of this which is a ſlender one to what follows, and that's his putting down in this moneth C, for the Dominical letter in ſtead of D. I ſup<g ref="char:EOLhyphen"/>poſe he conſidered it was Leap-year, and that made him skip o're the right. And therefore if he had not told Us afore-hand, we might eaſily diſcern that he had thrown his Authors aſide: for had he in compoſing his Almanack per<g ref="char:EOLhyphen"/>uſed Maſter WINGS Practical Aſtronomy, he could not have ſo groſly miſtook C for D. If he is married, I would have his wife acquaint him more with the Horn-book, for I ſee he muſt to his A, B, C.</p>
+            <p>I ſhall not need to quote any more of his ridiculous ab<g ref="char:EOLhyphen"/>ſurdities; but conclude with his groſs <hi>Predictions</hi> concern<g ref="char:EOLhyphen"/>ing the Eclipſe on <hi>March</hi> 29. which (according to his Cal<g ref="char:EOLhyphen"/>culation) ſhould have been the greateſt that ever eyes be<g ref="char:EOLhyphen"/>held in this latter Age. Certainly, this argues a great want of faith, and a ſpiritual darkneſs; for although there ap<g ref="char:EOLhyphen"/>peared enough to ſatisfie rational men that there was an eclipſe; yet we may obſerve, that he that made the two great Luminaries, and ordereth their courſe ſitteth in the Circle of the Heavens, and will not give His honour unto any other; but drew back the Clouds like a Curtain, and cauſed the Sun to ſhew his pleaſant Rays and comfortable Beames during the whole time of the eclipſe, to the confu<g ref="char:EOLhyphen"/>tation of theſe great Aſtrologers, who by the help of <hi>Tycho</hi> were able to gueſs at the time of the eclipſe, yet could not tell whether the day would be cleer or cloudy: However, many of thoſe <hi>Star-Gazers,</hi> who account themſelves skilful in this conjectural Science, went the ſame day to <hi>South-hampton</hi> houſe to take their obſervation, and ſtaid there
+<pb n="8" facs="tcp:166104:5"/>during the whole time; where Mr <hi>Lillie</hi> found, That the Eclipſe began at 9 of the clock and 56 min. in the forenoon, and that the Sun was in a Cardinal ſign 7 degrees; affirming that the effects thereof will extend to the cuting down and depopulating, thoſe Cities which have the ſign of the eclipſe: But where theſe are ſituated, I conceive he knowes no more, then thoſe of his Society, who ſaid, <hi>That there ſhould be a kind of Egyptian darkneſs over the face of the earth,</hi> upon the interception or obſcuration of the Light of the Sun, cauſed by interpoſition of the Moons body between the Sun and our ſight. Which how contrary it ſell out to their <hi>Prognostication,</hi> we have all been eye-witneſſes; and I am conſident, there will be as much difference in the effects of it: And thoſe Kingdoms, Cities, &amp;c. by them threatned, will ſtand and flouriſh, when they ſhall lie in the duſt.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
